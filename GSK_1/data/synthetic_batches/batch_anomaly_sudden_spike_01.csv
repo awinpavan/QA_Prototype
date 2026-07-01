@@ -1,0 +1,401 @@
+timestamp,batch_id,step,equipment_id,metric_name,metric_value,unit,operator,note
+2025-09-05T18:59:55.696155,batch_8c27a8,step_0,reactor-01,temperature,37.14,C,op_101,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_0,reactor-01,pressure,149.9,PSI,op_101,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_0,reactor-01,pH,7.01,pH,op_101,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_0,reactor-01,scale_weight,501.34,kg,op_101,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_1,mixer-03,temperature,37.12,C,op_303,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_1,mixer-03,pressure,140.5,PSI,op_303,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_1,mixer-03,pH,7.09,pH,op_303,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_1,mixer-03,scale_weight,500.65,kg,op_303,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_2,mixer-03,temperature,38.68,C,op_303,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_2,mixer-03,pressure,149.5,PSI,op_303,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_2,mixer-03,pH,7.03,pH,op_303,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_2,mixer-03,scale_weight,501.82,kg,op_303,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_3,reactor-01,temperature,37.58,C,op_202,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_3,reactor-01,pressure,141.37,PSI,op_202,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_3,reactor-01,pH,6.93,pH,op_202,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_3,reactor-01,scale_weight,501.79,kg,op_202,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_4,mixer-03,temperature,38.11,C,op_202,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_4,mixer-03,pressure,142.78,PSI,op_202,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_4,mixer-03,pH,7.01,pH,op_202,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_4,mixer-03,scale_weight,500.54,kg,op_202,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_5,reactor-01,temperature,43.1,C,op_101,Sudden temperature spike detected
+2025-09-05T18:59:55.696155,batch_8c27a8,step_5,reactor-01,pressure,163.41,PSI,op_101,Pressure rising unexpectedly
+2025-09-05T18:59:55.696155,batch_8c27a8,step_5,reactor-01,pH,6.33,pH,op_101,pH level dropping
+2025-09-05T18:59:55.696155,batch_8c27a8,step_5,reactor-01,scale_weight,500.19,kg,op_101,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_6,reactor-01,temperature,42.25,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.696155,batch_8c27a8,step_6,reactor-01,pressure,156.72,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.696155,batch_8c27a8,step_6,reactor-01,pH,6.53,pH,op_303,pH level dropping
+2025-09-05T18:59:55.696155,batch_8c27a8,step_6,reactor-01,scale_weight,501.48,kg,op_303,
+2025-09-05T18:59:55.696155,batch_8c27a8,step_7,reactor-01,temperature,43.69,C,op_101,Sudden temperature spike detected
+2025-09-05T18:59:55.696155,batch_8c27a8,step_7,reactor-01,pressure,158.81,PSI,op_101,Pressure rising unexpectedly
+2025-09-05T18:59:55.696155,batch_8c27a8,step_7,reactor-01,pH,6.34,pH,op_101,pH level dropping
+2025-09-05T18:59:55.696155,batch_8c27a8,step_7,reactor-01,scale_weight,501.88,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,temperature,43.52,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,pressure,161.23,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,pH,6.37,pH,op_303,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,scale_weight,501.83,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,filler-02,temperature,37.33,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,filler-02,pressure,145.62,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,filler-02,pH,6.82,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,filler-02,scale_weight,500.7,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,filler-02,temperature,38.86,C,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,filler-02,pressure,143.61,PSI,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,filler-02,pH,6.88,pH,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,filler-02,scale_weight,500.09,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,temperature,37.58,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,pressure,146.22,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,pH,7.14,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,scale_weight,500.91,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,temperature,38.5,C,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,pressure,146.98,PSI,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,pH,6.83,pH,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,scale_weight,501.02,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,temperature,37.81,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,pressure,147.0,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,pH,7.01,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,scale_weight,501.78,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,temperature,37.95,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,pressure,148.1,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,pH,7.07,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,scale_weight,501.54,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,reactor-01,temperature,43.95,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,reactor-01,pressure,158.39,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,reactor-01,pH,6.51,pH,op_303,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,reactor-01,scale_weight,500.99,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,filler-02,temperature,42.22,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,filler-02,pressure,163.14,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,filler-02,pH,6.69,pH,op_202,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,filler-02,scale_weight,500.31,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,temperature,43.62,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,pressure,163.18,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,pH,6.56,pH,op_303,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,scale_weight,500.65,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,reactor-01,temperature,43.29,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,reactor-01,pressure,159.19,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,reactor-01,pH,6.69,pH,op_303,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,reactor-01,scale_weight,500.87,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,reactor-01,temperature,37.39,C,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,reactor-01,pressure,145.26,PSI,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,reactor-01,pH,7.19,pH,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,reactor-01,scale_weight,501.86,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,temperature,38.77,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,pressure,140.98,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,pH,7.14,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,scale_weight,501.09,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,reactor-01,temperature,37.98,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,reactor-01,pressure,141.8,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,reactor-01,pH,7.13,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,reactor-01,scale_weight,501.02,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,filler-02,temperature,37.39,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,filler-02,pressure,144.41,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,filler-02,pH,6.89,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,filler-02,scale_weight,500.04,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,temperature,38.15,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,pressure,140.05,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,pH,6.9,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,scale_weight,501.98,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,temperature,37.59,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,pressure,140.09,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,pH,7.17,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,scale_weight,501.86,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,mixer-03,temperature,43.87,C,op_101,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,mixer-03,pressure,158.88,PSI,op_101,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,mixer-03,pH,6.43,pH,op_101,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,mixer-03,scale_weight,500.05,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,temperature,42.42,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,pressure,163.3,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,pH,6.39,pH,op_202,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,scale_weight,501.54,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,filler-02,temperature,42.24,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,filler-02,pressure,160.86,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,filler-02,pH,6.69,pH,op_303,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,filler-02,scale_weight,500.97,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,mixer-03,temperature,43.33,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,mixer-03,pressure,155.83,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,mixer-03,pH,6.6,pH,op_303,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,mixer-03,scale_weight,501.77,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,filler-02,temperature,37.94,C,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,filler-02,pressure,149.89,PSI,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,filler-02,pH,6.83,pH,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,filler-02,scale_weight,501.82,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,filler-02,temperature,37.25,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,filler-02,pressure,141.77,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,filler-02,pH,6.89,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,filler-02,scale_weight,500.81,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,temperature,38.12,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,pressure,148.17,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,pH,7.06,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,scale_weight,500.92,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,temperature,37.42,C,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,pressure,142.29,PSI,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,pH,7.14,pH,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,scale_weight,500.35,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,temperature,37.02,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,pressure,148.34,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,pH,6.82,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,scale_weight,500.1,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,temperature,37.59,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,pressure,145.99,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,pH,7.09,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,scale_weight,501.62,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,temperature,42.62,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,pressure,164.84,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,pH,6.32,pH,op_303,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,scale_weight,500.25,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,temperature,42.22,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,pressure,157.72,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,pH,6.47,pH,op_202,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,scale_weight,500.13,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,temperature,43.76,C,op_101,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,pressure,157.06,PSI,op_101,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,pH,6.52,pH,op_101,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,scale_weight,501.35,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,temperature,43.65,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,pressure,158.15,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,pH,6.53,pH,op_303,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,scale_weight,501.15,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,mixer-03,temperature,37.95,C,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,mixer-03,pressure,145.95,PSI,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,mixer-03,pH,7.1,pH,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,mixer-03,scale_weight,501.2,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,temperature,38.95,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,pressure,146.44,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,pH,7.18,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,scale_weight,500.33,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,temperature,38.12,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,pressure,145.93,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,pH,6.82,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,filler-02,scale_weight,501.06,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,filler-02,temperature,37.7,C,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,filler-02,pressure,148.97,PSI,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,filler-02,pH,6.99,pH,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,filler-02,scale_weight,500.06,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,reactor-01,temperature,38.04,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,reactor-01,pressure,148.56,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,reactor-01,pH,6.84,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,reactor-01,scale_weight,500.26,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,filler-02,temperature,37.54,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,filler-02,pressure,148.7,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,filler-02,pH,6.95,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,filler-02,scale_weight,500.25,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,temperature,43.44,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,pressure,156.78,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,pH,6.34,pH,op_303,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,scale_weight,500.77,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,filler-02,temperature,43.51,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,filler-02,pressure,161.02,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,filler-02,pH,6.53,pH,op_303,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,filler-02,scale_weight,501.88,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,reactor-01,temperature,43.0,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,reactor-01,pressure,163.72,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,reactor-01,pH,6.58,pH,op_202,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,reactor-01,scale_weight,502.0,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,temperature,42.71,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,pressure,164.24,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,pH,6.53,pH,op_202,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,filler-02,scale_weight,501.86,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,reactor-01,temperature,37.83,C,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,reactor-01,pressure,149.27,PSI,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,reactor-01,pH,7.13,pH,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,reactor-01,scale_weight,501.64,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,mixer-03,temperature,38.73,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,mixer-03,pressure,148.52,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,mixer-03,pH,6.91,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,mixer-03,scale_weight,500.31,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,mixer-03,temperature,37.84,C,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,mixer-03,pressure,148.43,PSI,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,mixer-03,pH,6.89,pH,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,mixer-03,scale_weight,500.72,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,temperature,38.16,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,pressure,144.93,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,pH,7.13,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,reactor-01,scale_weight,500.17,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,temperature,38.57,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,pressure,145.0,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,pH,7.18,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,scale_weight,501.25,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,temperature,37.98,C,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,pressure,145.45,PSI,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,pH,6.84,pH,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,scale_weight,501.84,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,mixer-03,temperature,42.51,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,mixer-03,pressure,155.74,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,mixer-03,pH,6.55,pH,op_202,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,mixer-03,scale_weight,500.98,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,temperature,42.4,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,pressure,162.5,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,pH,6.64,pH,op_202,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,mixer-03,scale_weight,501.97,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,temperature,43.85,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,pressure,155.14,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,pH,6.68,pH,op_202,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_7,mixer-03,scale_weight,500.93,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,reactor-01,temperature,42.75,C,op_101,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,reactor-01,pressure,163.24,PSI,op_101,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,reactor-01,pH,6.49,pH,op_101,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_8,reactor-01,scale_weight,501.21,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,mixer-03,temperature,37.51,C,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,mixer-03,pressure,149.21,PSI,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,mixer-03,pH,6.8,pH,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_9,mixer-03,scale_weight,501.34,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,temperature,37.17,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,pressure,142.1,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,pH,6.89,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_0,reactor-01,scale_weight,500.08,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,reactor-01,temperature,38.12,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,reactor-01,pressure,141.43,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,reactor-01,pH,7.01,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_1,reactor-01,scale_weight,501.11,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,mixer-03,temperature,37.59,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,mixer-03,pressure,145.82,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,mixer-03,pH,7.03,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_2,mixer-03,scale_weight,501.18,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,temperature,38.83,C,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,pressure,141.95,PSI,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,pH,6.82,pH,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_3,filler-02,scale_weight,500.4,kg,op_202,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,temperature,38.94,C,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,pressure,140.38,PSI,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,pH,7.0,pH,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_4,reactor-01,scale_weight,500.4,kg,op_303,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,temperature,42.61,C,op_101,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,pressure,162.97,PSI,op_101,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,pH,6.47,pH,op_101,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_5,filler-02,scale_weight,501.45,kg,op_101,
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,reactor-01,temperature,43.59,C,op_101,Sudden temperature spike detected
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,reactor-01,pressure,160.74,PSI,op_101,Pressure rising unexpectedly
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,reactor-01,pH,6.46,pH,op_101,pH level dropping
+2025-09-05T18:59:55.697155,batch_8c27a8,step_6,reactor-01,scale_weight,500.09,kg,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,temperature,43.38,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,pressure,156.52,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,pH,6.48,pH,op_303,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,scale_weight,500.01,kg,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,reactor-01,temperature,43.43,C,op_101,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,reactor-01,pressure,164.26,PSI,op_101,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,reactor-01,pH,6.36,pH,op_101,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,reactor-01,scale_weight,501.14,kg,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,reactor-01,temperature,38.75,C,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,reactor-01,pressure,146.54,PSI,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,reactor-01,pH,7.01,pH,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,reactor-01,scale_weight,500.94,kg,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,mixer-03,temperature,37.09,C,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,mixer-03,pressure,141.86,PSI,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,mixer-03,pH,7.17,pH,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,mixer-03,scale_weight,500.71,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,mixer-03,temperature,38.93,C,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,mixer-03,pressure,140.65,PSI,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,mixer-03,pH,6.93,pH,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,mixer-03,scale_weight,500.02,kg,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,mixer-03,temperature,37.7,C,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,mixer-03,pressure,141.62,PSI,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,mixer-03,pH,6.82,pH,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,mixer-03,scale_weight,501.42,kg,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,mixer-03,temperature,37.92,C,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,mixer-03,pressure,147.74,PSI,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,mixer-03,pH,7.13,pH,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,mixer-03,scale_weight,501.03,kg,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,reactor-01,temperature,37.69,C,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,reactor-01,pressure,142.27,PSI,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,reactor-01,pH,6.82,pH,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,reactor-01,scale_weight,501.61,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,reactor-01,temperature,43.86,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,reactor-01,pressure,157.86,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,reactor-01,pH,6.42,pH,op_303,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,reactor-01,scale_weight,501.74,kg,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,reactor-01,temperature,42.42,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,reactor-01,pressure,156.16,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,reactor-01,pH,6.51,pH,op_202,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,reactor-01,scale_weight,501.69,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,temperature,43.36,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,pressure,159.9,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,pH,6.67,pH,op_202,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,scale_weight,500.41,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,filler-02,temperature,43.09,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,filler-02,pressure,160.95,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,filler-02,pH,6.34,pH,op_202,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,filler-02,scale_weight,500.69,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,mixer-03,temperature,37.85,C,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,mixer-03,pressure,140.95,PSI,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,mixer-03,pH,6.85,pH,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,mixer-03,scale_weight,500.24,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,mixer-03,temperature,37.28,C,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,mixer-03,pressure,141.34,PSI,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,mixer-03,pH,6.93,pH,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,mixer-03,scale_weight,501.54,kg,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,reactor-01,temperature,38.47,C,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,reactor-01,pressure,144.86,PSI,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,reactor-01,pH,7.12,pH,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,reactor-01,scale_weight,500.57,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,filler-02,temperature,38.1,C,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,filler-02,pressure,148.45,PSI,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,filler-02,pH,6.97,pH,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,filler-02,scale_weight,501.78,kg,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,reactor-01,temperature,37.98,C,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,reactor-01,pressure,142.36,PSI,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,reactor-01,pH,6.83,pH,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,reactor-01,scale_weight,500.87,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,filler-02,temperature,37.45,C,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,filler-02,pressure,145.74,PSI,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,filler-02,pH,7.16,pH,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,filler-02,scale_weight,500.09,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,reactor-01,temperature,42.68,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,reactor-01,pressure,163.36,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,reactor-01,pH,6.57,pH,op_202,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,reactor-01,scale_weight,500.1,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,reactor-01,temperature,43.95,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,reactor-01,pressure,164.83,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,reactor-01,pH,6.64,pH,op_303,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,reactor-01,scale_weight,500.34,kg,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,temperature,42.27,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,pressure,156.68,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,pH,6.45,pH,op_303,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,scale_weight,501.08,kg,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,mixer-03,temperature,43.13,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,mixer-03,pressure,161.61,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,mixer-03,pH,6.49,pH,op_202,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,mixer-03,scale_weight,500.35,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,mixer-03,temperature,37.18,C,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,mixer-03,pressure,140.72,PSI,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,mixer-03,pH,6.89,pH,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,mixer-03,scale_weight,500.41,kg,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,reactor-01,temperature,37.55,C,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,reactor-01,pressure,140.97,PSI,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,reactor-01,pH,7.03,pH,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_0,reactor-01,scale_weight,501.18,kg,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,reactor-01,temperature,37.48,C,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,reactor-01,pressure,141.86,PSI,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,reactor-01,pH,6.84,pH,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_1,reactor-01,scale_weight,500.07,kg,op_101,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,reactor-01,temperature,37.47,C,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,reactor-01,pressure,143.62,PSI,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,reactor-01,pH,6.91,pH,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_2,reactor-01,scale_weight,500.52,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,mixer-03,temperature,37.45,C,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,mixer-03,pressure,144.01,PSI,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,mixer-03,pH,7.09,pH,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_3,mixer-03,scale_weight,500.34,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,reactor-01,temperature,37.4,C,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,reactor-01,pressure,145.7,PSI,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,reactor-01,pH,6.94,pH,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_4,reactor-01,scale_weight,500.37,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,mixer-03,temperature,42.2,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,mixer-03,pressure,160.69,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,mixer-03,pH,6.67,pH,op_303,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_5,mixer-03,scale_weight,501.25,kg,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,filler-02,temperature,42.12,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,filler-02,pressure,158.17,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,filler-02,pH,6.61,pH,op_303,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_6,filler-02,scale_weight,500.04,kg,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,temperature,42.68,C,op_202,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,pressure,163.94,PSI,op_202,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,pH,6.54,pH,op_202,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_7,reactor-01,scale_weight,501.09,kg,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,reactor-01,temperature,42.39,C,op_303,Sudden temperature spike detected
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,reactor-01,pressure,155.87,PSI,op_303,Pressure rising unexpectedly
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,reactor-01,pH,6.37,pH,op_303,pH level dropping
+2025-09-05T18:59:55.698155,batch_8c27a8,step_8,reactor-01,scale_weight,501.07,kg,op_303,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,reactor-01,temperature,38.03,C,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,reactor-01,pressure,141.98,PSI,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,reactor-01,pH,7.03,pH,op_202,
+2025-09-05T18:59:55.698155,batch_8c27a8,step_9,reactor-01,scale_weight,501.79,kg,op_202,
